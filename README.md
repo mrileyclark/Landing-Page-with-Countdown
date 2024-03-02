@@ -1,5 +1,4 @@
-# 
-Landing Page with Countdown 
+# Landing Page with Countdown 
 
 ****
 
