@@ -3,7 +3,7 @@ Landing Page with Countdown
 
 ****
 
-A fun project to capture a 
+A project to work on utilizing date objects and using a countdown feature for a company landing page.
 
 Link to project: []
 
@@ -13,20 +13,13 @@ Shape alt tag
 
 ## How It's Made: 
 
-Tech used: HTML, CSS, JavaScript, Open Brewery DB
+Tech used: HTML, CSS, JavaScript
 
-BeerFinder API - Developed a JavaScript application that utilizes 
-the Open Brewery DB API to find breweries in a given city. The user enters 
-the city name, and the application fetches relevant brewery data from the API. The 
-information is then dynamically displayed in a table format, including details 
-such as brewery name, address, city, state, and website URL. I ensured the application
-handles potential null values for brewery names and website URLs, following best 
-practices for data presentation and error handling.
+Landing Page with Countdown -  Developed a dynamic countdown timer component using HTML, CSS, and JavaScript to track the time remaining until a specified launch date. The countdown timer displays the remaining days, hours, minutes, and seconds in real-time, updating every second to provide users with accurate and precise information. This project demonstrates my proficiency in front-end development, including DOM manipulation and time/date calculations.
 
 ****
 
  ## Lessons Learned: 
 
-I plan on revisting the app to add a sort option for users to have the ability
-to sort duplicate city names.
+I plan on revisting the app to change the sytling of the countdown UI to look like records.
 
