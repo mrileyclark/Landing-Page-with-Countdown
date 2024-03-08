@@ -6,7 +6,7 @@ A project to work on utilizing date objects and using a countdown feature for a 
 
 Link to project: [https://mrileyclark.github.io/Landing-Page-with-Countdown/]
 
-![Alt text](<img src="[https://your-image-url.type](https://github.com/mrileyclark/Landing-Page-with-Countdown/blob/main/records-project.png)" width="100" height="100")
+![Alt text](<img src="https://github.com/mrileyclark/Landing-Page-with-Countdown/blob/main/records-project.png)" width="100" height="100")
 
 
 ****
