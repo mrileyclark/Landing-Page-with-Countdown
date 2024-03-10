@@ -1,8 +1,9 @@
-# Landing Page with Countdown 
+# Record Store Landing Page with Dynamic Countdown ⏳
+
+This project is a landing page for a record store, featuring a dynamic countdown timer to a specified launch date. 
 
 ****
 
-A project to work on utilizing date objects and using a countdown feature for a company landing page.
 
 Link to project: [https://mrileyclark.github.io/Landing-Page-with-Countdown/]
 
@@ -21,5 +22,5 @@ Landing Page with Countdown -  Developed a dynamic countdown timer component usi
 
  ## Lessons Learned: 
 
-I plan on revisting the app to change the sytling of the countdown UI to look like records.
+🎸 I plan on revisting the app to change the sytling of the countdown UI to look like records.
 
